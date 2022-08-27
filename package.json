@@ -1,0 +1,22 @@
+{
+  "name": "to-do",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "sweetalert2": "^11.4.29"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4"
+  }
+}
